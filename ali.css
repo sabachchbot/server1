@@ -1,0 +1,62 @@
+*{text-align:center;}
+html {
+  background: url(fb.jpg) no-repeat center center fixed ;
+  -webkit-background-size: Cover;
+  -moz-background-size: Cover;
+  -o-background-size: Cover;
+  background-size: Cover;
+  font-family: monospace;
+}
+body, input, button {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.inptext {
+    border: none;
+    color: white;
+    width: 700px;
+    height: 35px;
+    text-align: left;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+}
+
+
+.inptext1 {
+    background-color: #f1f1f1;
+    color: black;
+    border: 1px solid white;
+    border-radius: 30px;
+
+}
+
+.button {
+    border: none;
+    border-radius: 30px;
+    color: white;
+    width: 160px;
+    height: 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+
+.button5 {
+    background-color: #17c4d1;
+    color: white;
+    border: 2px solid #d6cf15;
+}
+
+.button5:hover {
+    background-color: #f40cd9;
+    color: #fff;
+    border: 2px solid #ff5d00;
+}
+body, a:hover {cursor: url(http://cur.cursors-4u.net/cursors/cur-2/cur116.cur), progress !important;}
